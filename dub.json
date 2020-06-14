@@ -1,0 +1,8 @@
+{
+	"name": "openvr",
+	"dependencies": {
+		"directx-d": { "version": "*", "optional": true },
+		"aurora-directx": { "version": "*", "optional": true }
+	},
+	"libs": ["openvr_api"]
+}
