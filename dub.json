@@ -1,5 +1,7 @@
 {
 	"name": "openvr",
+	"description": "Bindings for Valve's C++ OpenVR library (1.11.11) for making virtual reality applications",
+	"license": "BSD 3-clause",
 	"dependencies": {
 		"directx-d": { "version": "*", "optional": true },
 		"aurora-directx": { "version": "*", "optional": true }
